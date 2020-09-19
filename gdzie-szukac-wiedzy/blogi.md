@@ -6,6 +6,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 
 * [https://testujemy.mobi](https://testujemy.mobi)
   * Piotr Wicherski
+* [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
+  * dlaTesterów.PL
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
